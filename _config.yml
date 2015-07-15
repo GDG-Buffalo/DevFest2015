@@ -13,7 +13,6 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG Buffalo DevFest 2015"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-
 url: "https://gdg-buffalo.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -137,37 +136,31 @@ ticketsOffers:
  -
   name: "Student"
   price: "FREE"
-  ticketsNumber: "150"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://gdg-devfest-buffalo.ticketforevent.com"
   buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validThrough: "2015-09-18T23:59"
  -
-  name: "Early Bird"
+  name: "Professional: Early Bird"
   price: "30"
   priceCurrency: "USA"
-  ticketsNumber: "100"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://gdg-devfest-buffalo.ticketforevent.com"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  validThrough: "2015-08-14T23:59"
+ 
  -
-  name: "Professional"
+  name: "Professional: Regular"
   price: "50"
   priceCurrency: "USA"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.google.com/"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  validFrom: "2015-08-15T10:00"
+  validThrough: "2015-09-18T23:59"
+  disabled: true
 
 # Footer
 socialLinks:
