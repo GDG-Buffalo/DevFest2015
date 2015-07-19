@@ -146,7 +146,7 @@ ticketsOffers:
   price: "30"
   priceCurrency: "USA"
   featured: true
-  buyButtonLink: "http://gdg-devfest-buffalo.ticketforevent.com"
+  buyButtonLink: "http://www.eventbrite.com/e/gdg-devfest-buffalo-2015-tickets-17823008097"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validThrough: "2015-08-14T23:59"
@@ -155,7 +155,7 @@ ticketsOffers:
   name: "Professional: Regular"
   price: "50"
   priceCurrency: "USA"
-  buyButtonLink: "http://www.google.com/"
+  buyButtonLink: "http://www.eventbrite.com/e/gdg-devfest-buffalo-2015-tickets-17823008097"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-08-15T10:00"
