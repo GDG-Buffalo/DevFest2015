@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG Buffalo DevFest 2015"
-email: "devfest@gdg.org.ua"
+email: "gdgbuffalo@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 url: "https://gdg-buffalo.github.io"
 permalink: "/blog/:title"
@@ -150,7 +150,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validThrough: "2015-08-14T23:59"
- 
+
  -
   name: "Professional: Regular"
   price: "50"
