@@ -138,27 +138,25 @@ ticketsOffers:
   price: "FREE"
   buyButtonLink: "https://docs.google.com/a/buffalo.edu/forms/d/1RteTGCNL3dGCY9TnaIqSu9Sn_yVsx6kKn9uFi_qdqkM/viewform"
   buyButtonText: "Register Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled"
+  additionalInfo: "Requires a valid student/faculty ID at the conference check in. Without student/faculty ID at the check in, ticket will be cancelled"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validThrough: "2015-09-18T23:59"
  -
   name: "Professional: Early Bird"
-  price: "30"
-  priceCurrency: "USA"
+  price: "15"
+  priceCurrency: "USD"
   featured: true
   buyButtonLink: "http://www.eventbrite.com/e/gdg-devfest-buffalo-2015-tickets-17823008097"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validThrough: "2015-08-14T23:59"
+  validThrough: "2015-08-31T23:59"
 
  -
   name: "Professional: Regular"
-  price: "50"
-  priceCurrency: "USA"
+  price: "20"
+  priceCurrency: "USD"
   buyButtonLink: "http://www.eventbrite.com/e/gdg-devfest-buffalo-2015-tickets-17823008097"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-08-15T10:00"
+  validFrom: "2015-09-01T10:00"
   validThrough: "2015-09-18T23:59"
   disabled: true
 
