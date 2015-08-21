@@ -1,67 +1,48 @@
 -
   id: 3
-  name: "Avatar"
-  surname: "Avatar"
-  company: "Google Buffalo"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: avatar.jpg
+  name: "Bob"
+  surname: "Neubert"
+  company: "University at Buffalo"
+  title: "Clinical Assistant Professor, School of Management Department of Operations and Strategy (OMS)"
+  bio: "Entrepreneur with broad experiences in all aspects of business start-ups. Direct experience with product development, business strategy creation, start-up launches, marketing, sales, operations, technology development, intellectual propertycreation, human resource management, and investor recruitment. 
+
+Specialties: Entrepreneurship | Entrepreneurship Education | Product Development | Mobile App Development | Marketing | Business Strategy | Cause-based Marketing | Restaurant Marketing | Cause Fundraising | Marketing Consulting | Personal Productivity Tools"
+  thumbnailUrl: Bob.jpg
   rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/b/108106255897548082799/108106255897548082799"}
 -
   id: 4
-  name: "Avatar"
-  surname: "Avatar"
-  company: "Google Buffalo"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: avatar.jpg
+  name: "Nitya"
+  surname: "Narasimhan"
+  company: "Google Developer Group Hudson Valley"
+  title: "Software Professional | Technology Consultant | Organizer"
+  bio: '15+ years of R&D experience in developing concepts, applications, systems and solutions targeting survivable distributed systems, pervasive computing applications and mobile web services and solutions targeting enterprise,consumer, home and video domains. Demonstrated record of innovation (7 issued patents, 20+ pending), multi-disciplinary collaboration (with industry and academia) and management (people, projects and partnerships).
+
+Currently juggle teaching & advocacy with consulting & development roles focused on early stage concepts and solutions for the mobile web ecosystem, with emphasis on education technology and real-time information dissemination. Passionate about early childhood education, diversity and civic engagement (particularly within local communities).
+
+Expertise:
+Survivability and Fault Tolerance, Mobile Computing Systems, Context-Aware Frameworks, Ad Hoc & Sensor Networks, Social Computing, Multi-Screen Media Experiences, Mobile Advertising, Ambient Information Systems, Gamification, Social Television, Mobile Web'
+  thumbnailUrl: Nitya.jpg
   rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/b/108106255897548082799/108106255897548082799"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
-  name: "Avatar"
-  surname: "Avatar"
-  company: "Google Buffalo"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: avatar.jpg
+  name: "Dennis R."
+  surname: "Black"
+  company: "University at Buffalo"
+  title: "Vice President for University Life and Services at the University at Buffalo (UB)"
+  bio: "Dennis R. Black is Vice President for University Life and Services at the University at Buffalo (UB).  He is also an Associate Professor (adjunct) in the Graduate School of Education (GSE).
+
+Mr. Black previously served as University liaison for NCAA Division I intercollegiate athletics and WBFO-FM, a National Public Radio (NPR) affiliate station.  He has also led University Facilities, (Design and Construction, Maintenance, and Environmental Health and Safety), in addition to providing leadership to University Communications (UB Web Management, News Center, UB Reporter, Trademarks and Licensing), UB Greens, Worklife Learning and Development, and Equity, Diversity and Inclusion.
+
+For a decade, Mr. Black co-chaired the State University’s Personal Safety Task Force and annual safety symposia, and served on the SUNY Task Force following the Virginia Tech shootings.    
+
+Mr. Black is active in organizations in supporting higher education and the student experience, including the National Association of Student Personnel Administrators (NASPA), the American College Personnel Association (ACPA), the Association of Public and Land Grant Universities (APLU), and New York’s College Student Personnel Association (CSPA).
+
+He served on the joint ACPA-NASPA “Task Force on the Future of Student Affairs”, chaired the 2008 NASPA national conference, served on the NASPA board of directors, NASPA Journal editorial board, and been active in other association initiatives as well.  Mr. Black has served on the Editorial Board for “Leadership Exchange” and has been a Board member for the National Academy for Leadership and Executive Effectiveness.
+
+Mr. Black has also been national co-chair of the Association of Public Land Grant Universities (APLU) Council on Student Affairs and a peer reviewer for the Middle States Commission on Higher Education. 
+
+Vice President Black was a participant in the first US-Canada-China Student Affairs Summit in Beijing in 2008.  He also led a student leader study trip to China in 2010 and was the American representative at the 2012 International Bologna Conference on European student affairs/services in Berlin. 
+
+Mr. Black did undergraduate studies in English and Political Science at UB, where he received his Juris Doctorate degree from the law school.  He is also a graduate of the Harvard University Institute on Educational Management and has participated in National Employment Law Institute and Indiana University School of Philanthropy programs."
+  thumbnailUrl: DennisBlack.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://plus.google.com/u/0/b/108106255897548082799/108106255897548082799"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://plus.google.com/u/0/b/108106255897548082799/108106255897548082799"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
--
-  id: 6
-  name: "Avatar"
-  surname: "Avatar"
-  company: "Google Buffalo"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: avatar.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://plus.google.com/u/0/b/108106255897548082799/108106255897548082799"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
--
-  id: 7
-  name: "Avatar"
-  surname: "Avatar"
-  company: "Google Buffalo"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: avatar.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://plus.google.com/u/0/b/108106255897548082799/108106255897548082799"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/b/108106255897548082799/108106255897548082799"}
-    - {name: "site", link: "http://olostan.name/"}
