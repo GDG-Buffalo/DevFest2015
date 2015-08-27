@@ -135,11 +135,11 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Student/Faculty"
-  price: "FREE"
+  price: "FREE(limited time only)"
   buyButtonLink: "https://docs.google.com/a/buffalo.edu/forms/d/1RteTGCNL3dGCY9TnaIqSu9Sn_yVsx6kKn9uFi_qdqkM/viewform"
   buyButtonText: "Register Now"
   additionalInfo: "Requires a valid student/faculty ID at the conference check in. Without student/faculty ID at the check in, ticket will be cancelled"
-  validThrough: "2015-09-18T23:59"
+  validThrough: "2015-08-31T23:59"
  -
   name: "Professional: Early Bird"
   price: "15"
@@ -206,7 +206,7 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Buffalo"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Exit the airport following the signs leading to Route 33 West toward Buffalo. Route 33 (Kensington Expressway) begins at the West Gate of the Buffalo Niagara Airport. Take Route 33 West to the I-90 East to the I-290 West. Take the I-290 West (toward Niagara Falls) to Exit 5B (Millersport Highway, Route 263). Get off exit and merge into traffic. Go through first light (Marriott is on your left), and merge into right lane. Enter campus at the Flint Road exit.'}
  - {title: "Public Transit", information: 'Bus Transit is available in Buffalo. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Buffalo.'}
