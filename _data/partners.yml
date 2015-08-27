@@ -6,6 +6,7 @@
     - {name: "Snowberg", description: "Snowberg Inc. is a Buffalo local start-up focusing on mobile app products", link: "http://www.snowbergtech.com/", imageUrl: "Snowberg.png"}
     - {name: "Ted's Hot Dogs", description: "Ted's Hot Dogs", link: "https://www.tedshotdogs.com/", imageUrl: "Teds.jpg"}
     - {name: "UB SEAS", description: "The State University of New York at Buffalo School of Engineering and Applied Sciences", link: "http://engineering.buffalo.edu/", imageUrl: "seas.jpg"}
+    - {name: "US Marine Corps", description: "US Marine Corps", link: "http://www.marines.mil/", imageUrl: "marine.jpg"}
 -
   group: "With support of"
   elements:
