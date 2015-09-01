@@ -8,6 +8,7 @@
     - {name: "UB SEAS", description: "The State University of New York at Buffalo School of Engineering and Applied Sciences", link: "http://engineering.buffalo.edu/", imageUrl: "seas.jpg"}
     - {name: "US Marine Corps", description: "US Marine Corps", link: "http://www.marines.mil/", imageUrl: "marine.jpg"}
     - {name: "US NAVY", description: "US NAVY", link: "http://www.navy.com/", imageUrl: "navy.jpg"}
+    - {name: "CreativeTim", description: "CreativeTim", link: "http://www.creative-tim.com", imageUrl: "CreativeTim.png"}
 -
   group: "With support of"
   elements:
