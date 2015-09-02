@@ -13,16 +13,10 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
   id: 4
   name: "Ray"
   surname: "Tsang"
-  company: "Google Developer Group Hudson Valley"
-  title: "Software Professional | Technology Consultant | Organizer"
+  company: "Google"
+  title: "Senior Developer Advocate"
   bio: "Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures."
-  
-
-Currently juggle teaching & advocacy with consulting & development roles focused on early stage concepts and solutions for the mobile web ecosystem, with emphasis on education technology and real-time information dissemination. Passionate about early childhood education, diversity and civic engagement (particularly within local communities).
-
-Expertise:
-Survivability and Fault Tolerance, Mobile Computing Systems, Context-Aware Frameworks, Ad Hoc & Sensor Networks, Social Computing, Multi-Screen Media Experiences, Mobile Advertising, Ambient Information Systems, Gamification, Social Television, Mobile Web'
-  thumbnailUrl: Nitya.jpg
+  thumbnailUrl: Ray.jpg
   rockstar: true
 -
   id: 5
