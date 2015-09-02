@@ -11,11 +11,12 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
   rockstar: true
 -
   id: 4
-  name: "Nitya"
-  surname: "Narasimhan"
+  name: "Ray"
+  surname: "Tsang"
   company: "Google Developer Group Hudson Valley"
   title: "Software Professional | Technology Consultant | Organizer"
-  bio: '15+ years of R&D experience in developing concepts, applications, systems and solutions targeting survivable distributed systems, pervasive computing applications and mobile web services and solutions targeting enterprise,consumer, home and video domains. Demonstrated record of innovation (7 issued patents, 20+ pending), multi-disciplinary collaboration (with industry and academia) and management (people, projects and partnerships).
+  bio: "Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures."
+  
 
 Currently juggle teaching & advocacy with consulting & development roles focused on early stage concepts and solutions for the mobile web ecosystem, with emphasis on education technology and real-time information dissemination. Passionate about early childhood education, diversity and civic engagement (particularly within local communities).
 
