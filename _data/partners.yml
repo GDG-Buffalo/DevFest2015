@@ -9,6 +9,8 @@
     - {name: "US Marine Corps", description: "US Marine Corps", link: "http://www.marines.mil/", imageUrl: "marine.jpg"}
     - {name: "US NAVY", description: "US NAVY", link: "http://www.navy.com/", imageUrl: "navy.jpg"}
     - {name: "CreativeTim", description: "CreativeTim", link: "http://www.creative-tim.com", imageUrl: "CreativeTim.png"}
+    - {name: "Zetti's Pizza & Pasta", description: "Zetti's Pizza & Pasta at Maple Rd", link: "http://www.zettis.com/", imageUrl: "zetti.gif"}
+    - {name: "Banchetti By Rizzo's", description: "Banchetti By Rizzo's", link: "http://www.banchettibyrizzos.com/", imageUrl: "rizzo.jpg"}
 -
   group: "With support of"
   elements:
