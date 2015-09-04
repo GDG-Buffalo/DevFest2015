@@ -1,14 +1,14 @@
 - 
   id: 0
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Geoffrey"
+  surname: "Challen"
+  company: "University at Buffalo"
+  title: "Assistant Professor"
+  thumbnailUrl: Geoffrey.jpg
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/104458319329547423859/about"}
+    - {name: "twitter", link: "https://twitter.com/geoffreychallen"}
+    - {name: "github", link: "https://github.com/gchallen"}
 - 
   id: 1
   name: "Vitaliy"

@@ -244,8 +244,8 @@ judgesTitle: "Judges"
 # Hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "2nd Place", image: "prize-2.jpg", info: "Audio-Technica ATH-M30x Professional Studio Monitor Headphones Deluxe Bundle"}
+ - {title: "1nd Place", image: "prize-1.jpg", info: "Samsung 850 Pro 256GB 2.5-Inch SATA III Internal SSD (MZ-7KE256BW)"}
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
