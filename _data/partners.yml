@@ -13,6 +13,7 @@
     - {name: "Banchetti By Rizzo's", description: "Banchetti By Rizzo's", link: "http://www.banchettibyrizzos.com/", imageUrl: "rizzo.jpg"}
     - {name: "Duff's Famous Wings", description: "Duff's Famous Wings", link: "http://www.duffswings.com/", imageUrl: "duffs.png"}
     - {name: "O’Reilly Media", description: "O’Reilly Media", link: "http://www.oreilly.com/", imageUrl: "oreilly.jpg"}
+    - {name: "UB Career Services", description: "UB Career Services", link: "http://www.buffalo.edu/career.html", imageUrl: "ubcareer.jpg"}
 -
   group: "With support of"
   elements:
