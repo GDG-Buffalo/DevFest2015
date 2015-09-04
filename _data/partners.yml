@@ -11,6 +11,7 @@
     - {name: "CreativeTim", description: "CreativeTim", link: "http://www.creative-tim.com", imageUrl: "CreativeTim.png"}
     - {name: "Zetti's Pizza & Pasta", description: "Zetti's Pizza & Pasta at Maple Rd", link: "http://www.zettis.com/", imageUrl: "zetti.gif"}
     - {name: "Banchetti By Rizzo's", description: "Banchetti By Rizzo's", link: "http://www.banchettibyrizzos.com/", imageUrl: "rizzo.jpg"}
+    - {name: "Duff's Famous Wings", description: "Duff's Famous Wings", link: "http://www.duffswings.com/", imageUrl: "duffs.png"}
 -
   group: "With support of"
   elements:
