@@ -48,6 +48,6 @@
   id: 006
   title: "Coming Soon!"
   subtype: presentation
-  speakers: [5]
+  speakers: [5,2]
   language: en
   complexity: "Intermediate"

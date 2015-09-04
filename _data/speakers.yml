@@ -1,4 +1,13 @@
 -
+  id: 2
+  name: "Challen"
+  surname: "Geoffrey"
+  company: "University at Buffalo"
+  title: "Assistant Professor"
+  bio: "I’m an Assistant Professor at the University at Buffalo, where I lead the blue Systems Research Group and also direct the PhoneLab. My research interests are in systems and networking, mobile systems, and smartphones. I teach an introduction to computer operating systems and a graduate seminar covering a variety of contemporary topics in mobile systems."
+  thumbnailUrl: Geoffrey.jpg
+  rockstar: true
+-
   id: 3
   name: "Bob"
   surname: "Neubert"

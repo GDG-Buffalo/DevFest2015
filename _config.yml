@@ -28,7 +28,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, buffalo"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -56,7 +56,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2015"
-eventDate: "September, 2015"
+eventDate: "September 19-20, 2015"
 typeoutTextValues: '"", "Buffalo", "New York", "USA"'
 typeoutFallback: "Buffalo"
 heroButtons:
@@ -73,10 +73,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "28", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "4", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -115,7 +114,7 @@ venueFeatures: ["Located at 1st floor of Davis Hall"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "buffalodevfest2015"
 twitterFeed: "http://gdg-buffalo.github.io/zeppelin/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
