@@ -2,7 +2,7 @@
   id: 2
   name: "Geoffrey"
   surname: "Challen"
-  company: "University at Buffalo"
+  company: "University at Buffalo School of Engineering and Applied Sciences"
   title: "Assistant Professor"
   bio: "I’m an Assistant Professor at the University at Buffalo, where I lead the blue Systems Research Group and also direct the PhoneLab. My research interests are in systems and networking, mobile systems, and smartphones. I teach an introduction to computer operating systems and a graduate seminar covering a variety of contemporary topics in mobile systems."
   thumbnailUrl: Geoffrey.jpg
@@ -27,6 +27,18 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
 #   bio: "Ray is a Developer Advocate for the Google Cloud Platform. Ray had extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps, and ITOps. Ray specialized in middleware, big data, and PaaS products during his time at RedHat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures."
 #   thumbnailUrl: Ray.jpg
 #   rockstar: true
+
+-
+  id: 4
+  name: "Varun"
+  surname: "Chandola"
+  company: "University at Buffalo School of Engineering and Applied Sciences"
+  title: "Assistant Professor"
+  bio: "Varun is a tenure-track assistant professor in the Computer Science and Engineering Department and the Center for Computational Data Science and Engineering (CDSE) at the State University of New York (SUNY) at Buffalo. He completed his PhD from University of Minnesota, Department of Computer Science. His research is in the area of scalable anomaly detection and data mining for big graphs, temporal, and spatial data.
+  He leads the Machine Learning and Data Science (MLDS) research group at UB."
+  thumbnailUrl: chandola.jpg
+  rockstar: true
+
 # -
 #   id: 5
 #   name: "Dennis R."
