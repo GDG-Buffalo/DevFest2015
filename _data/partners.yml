@@ -17,6 +17,7 @@
     - {name: "Office Depot", description: "Office Depot", link: "http://www.officedepot.com/", imageUrl: "officemax.jpg"}
     - {name: "DiCamillo Bakery", description: "DiCamillo Bakery", link: "http://www.dicamillobakery.com/", imageUrl: "dicamillo.png"}
     - {name: "The Family Tree Restaurant", description: "The Family Tree Restaurant", link: "http://thefamilytreerestaurant.com/", imageUrl: "familytree.jpg"}
+    - {name: "UB Office of Student Engagement", description: "UB Office of Student Engagement", link: "http://www.leadership.buffalo.edu/", imageUrl: "engagement.jpg"}
 -
   group: "With support of"
   elements:
