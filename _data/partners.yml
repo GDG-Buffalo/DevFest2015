@@ -15,6 +15,8 @@
     - {name: "O’Reilly Media", description: "O’Reilly Media", link: "http://www.oreilly.com/", imageUrl: "oreilly.jpg"}
     - {name: "UB Career Services", description: "UB Career Services", link: "http://www.buffalo.edu/career.html", imageUrl: "ubcareer.jpg"}
     - {name: "Office Depot", description: "Office Depot", link: "http://www.officedepot.com/", imageUrl: "officemax.jpg"}
+    - {name: "DiCamillo Bakery", description: "DiCamillo Bakery", link: "http://www.dicamillobakery.com/", imageUrl: "dicamillo.png"}
+    - {name: "The Family Tree Restaurant", description: "The Family Tree Restaurant", link: "http://thefamilytreerestaurant.com/", imageUrl: "familytree.jpg"}
 -
   group: "With support of"
   elements:
