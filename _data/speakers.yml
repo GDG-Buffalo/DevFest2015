@@ -44,3 +44,12 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
   title: "Engineering Career Counselor"
   thumbnailUrl: Holly.jpg
   rockstar: true
+-
+  id: 7
+  name: "Emily"
+  surname: "Rasowsky"
+  company: "Social Driver"
+  title: "Director of Marketing Strategy"
+  thumbnailUrl: Emily.jpg
+  rockstar: true
+

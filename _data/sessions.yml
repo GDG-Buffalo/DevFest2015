@@ -24,13 +24,6 @@
   language: en
   complexity: "Intermediate" 
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
--
   id: 006
   title: "Coming Soon!"
   subtype: presentation
@@ -49,5 +42,12 @@
   title: "Social Networking skills and How to stand out from a large pool of talent"
   subtype: presentation
   speakers: [6]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 009
+  title: "Women and Technology"
+  subtype: presentation
+  speakers: [7]
   language: en
   complexity: "Intermediate"
