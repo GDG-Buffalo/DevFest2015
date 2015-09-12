@@ -86,19 +86,16 @@
   title: "Lunch Time"
   place: "Hall"
   service: true
-  description: "Lunch Break!"
 -
   id: 103
   title: "Breakfast Time"
   place: "Hall"
   service: true
-  description: "Breakfast Break!"
 -
   id: 104
   title: "Dinner Time"
   place: "Hall"
   service: true
-  description: "Dinner Break!"
 -
   id: 105
   title: "Late Night Time"
