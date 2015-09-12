@@ -20,6 +20,7 @@
     - {name: "UB Office of Student Engagement", description: "UB Office of Student Engagement", link: "http://www.leadership.buffalo.edu/", imageUrl: "engagement.jpg"}
     - {name: "In Collision Auto & Repair", description: "In Collision Auto & Repair", link: "http://www.incollisioninc.com", imageUrl: "Incollision.png"}
     - {name: "Walgreens", description: "Walgreens", link: "http://www.walgreens.com/", imageUrl: "walgreens.png"}
+    - {name: "Trattoria Aroma on Main", description: "Trattoria Aroma on Main", link: "http://aromamainst.com/", imageUrl: "aroma.png"}
 -
   group: "With support of"
   elements:
