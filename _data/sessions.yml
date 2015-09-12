@@ -1,53 +1,63 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
-  title: "Entrepreneur"
+  title: "Google - Firebase Tech Talk"
   subtype: workshop
-  speakers: [3]
+  speakers: [1]
   language: en
   complexity: "Intermediate"
 -
-  id: 003
-  title: "Google Developers Group and Firebase Team"
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
--
-  id: 006
+  id: 002
   title: "Coming Soon!"
   subtype: presentation
   speakers: [2]
   language: en
+  complexity: "Intermediate" 
+-
+  id: 003
+  title: "Entreprenuer"
+  subtype: presentation
+  speakers: [3]
+  language: en
   complexity: "Intermediate"
 -
-  id: 007
+  id: 004
   title: "Open source tools for Geospatial Analysis"
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 005
+  title: "Social Networking skills and How to stand out from a large pool of talent"
   subtype: presentation
   speakers: [5]
   language: en
   complexity: "Intermediate"
 -
-  id: 008
-  title: "Social Networking skills and How to stand out from a large pool of talent"
+  id: 006
+  title: "Women and Technology"
   subtype: presentation
   speakers: [6]
   language: en
   complexity: "Intermediate"
 -
-  id: 009
-  title: "Women and Technology"
+  id: 007
+  title: "Coming Soon!"
   subtype: presentation
   speakers: [7]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 008
+  title: "Coming Soon!"
+  subtype: presentation
+  speakers: [8]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 009
+  title: "Google - Google Glass"
+  subtype: presentation
+  speakers: [9]
   language: en
   complexity: "Intermediate"
