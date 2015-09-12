@@ -61,3 +61,89 @@
   speakers: [9]
   language: en
   complexity: "Intermediate"
+-
+  id: 010
+  title: "Google - Firebase Workshop, Q&A"
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "Coming Soon!"
+  subtype: presentation
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 101
+  title: "Registration Open"
+  place: "Hall"
+  service: true
+  description: "Registration will start at 8:30 AM"
+-
+  id: 102
+  title: "Lunch Time"
+  place: "Hall"
+  service: true
+  description: "Lunch Break!"
+-
+  id: 103
+  title: "Breakfast Time"
+  place: "Hall"
+  service: true
+  description: "Breakfast Break!"
+-
+  id: 104
+  title: "Dinner Time"
+  place: "Hall"
+  service: true
+  description: "Dinner Break!"
+-
+  id: 105
+  title: "Late Night Time"
+  place: "Hall"
+  service: true
+  description: "Enjoy the awesome night with the awesome late night with us! You will be surprised how awesome the late night going to be!"
+-
+  id: 106
+  title: "Hackathon Presentation"
+  place: "Hall"
+  service: true
+  description: "It is time for you shine your hard work to the judge!"
+-
+  id: 107
+  title: "Closing Ceremony"
+  place: "Hall"
+  service: true
+  description: "It is time for you shine your hard work to the judges!"
+-
+  id: 108
+  title: "Google Jeopardy"
+  place: "Hall"
+  service: true
+  description: "Take a break! Have fun with the America's Favorite Quiz Game!"
+-
+  id: 109
+  title: "GDG DevFest After Party"
+  place: "Hall"
+  service: true
+  description: "Come and have a beer and meet great people with us!"
+-
+  id: 110
+  title: "Hackathon Start"
+  place: "Hall"
+  service: true
+  description: "Start hacking and make awesome app!"
+-
+  id: 111
+  title: "Hackathon End"
+  place: "Hall"
+  service: true
+  description: "Finish up your last line of code and be ready!"
+-
+  id: 112
+  title: "Hackathon Round #1"
+  place: "Hall"
+  service: true
+  description: "Submit your Powerpoint Slide and wait for result!"

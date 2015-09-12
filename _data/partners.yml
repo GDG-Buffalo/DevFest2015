@@ -18,6 +18,7 @@
     - {name: "DiCamillo Bakery", description: "DiCamillo Bakery", link: "http://www.dicamillobakery.com/", imageUrl: "dicamillo.png"}
     - {name: "The Family Tree Restaurant", description: "The Family Tree Restaurant", link: "http://thefamilytreerestaurant.com/", imageUrl: "familytree.jpg"}
     - {name: "UB Office of Student Engagement", description: "UB Office of Student Engagement", link: "http://www.leadership.buffalo.edu/", imageUrl: "engagement.jpg"}
+    - {name: "In Collision Auto & Repair", description: "In Collision Auto & Repair", link: "http://www.incollisioninc.com", imageUrl: "Incollision.png"}
 -
   group: "With support of"
   elements:
