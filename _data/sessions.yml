@@ -1,8 +1,8 @@
 -
   id: 001
-  title: "Google - Firebase Tech Talk"
+  title: "Google - Cloud Tech Talk"
   subtype: workshop
-  speakers: [1]
+  speakers: [7]
   language: en
   complexity: "Intermediate"
 -
@@ -41,13 +41,6 @@
   language: en
   complexity: "Intermediate"
 -
-  id: 007
-  title: "Coming Soon!"
-  subtype: presentation
-  speakers: [7]
-  language: en
-  complexity: "Intermediate"
--
   id: 008
   title: "Coming Soon!"
   subtype: presentation
@@ -65,7 +58,7 @@
   id: 010
   title: "Google - Firebase Workshop, Q&A"
   subtype: presentation
-  speakers: [1]
+  speakers: [7]
   language: en
   complexity: "Intermediate"
 -
