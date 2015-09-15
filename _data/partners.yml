@@ -20,7 +20,6 @@
     - {name: "In Collision Auto & Repair", description: "In Collision Auto & Repair", link: "http://www.incollisioninc.com", imageUrl: "Incollision.png"}
     - {name: "Walgreens", description: "Walgreens", link: "http://www.walgreens.com/", imageUrl: "walgreens.png"}
     - {name: "Trattoria Aroma on Main", description: "Trattoria Aroma on Main", link: "http://aromamainst.com/", imageUrl: "aroma.png"}
-    - {name: "Besta Pizza", description: "Besta Pizza", link: "http://www.bestapizza.com/", imageUrl: "besta.png"}
 -
   group: "With support of"
   elements:
