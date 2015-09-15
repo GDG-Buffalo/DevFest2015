@@ -6,6 +6,7 @@
     - {name: "Snowberg", description: "Snowberg Inc. is a Buffalo local start-up focusing on mobile app products", link: "http://www.snowbergtech.com/", imageUrl: "Snowberg.png"}
     - {name: "Ted's Hot Dogs", description: "Ted's Hot Dogs", link: "https://www.tedshotdogs.com/", imageUrl: "Teds.jpg"}
     - {name: "UB SEAS", description: "The State University of New York at Buffalo School of Engineering and Applied Sciences", link: "http://engineering.buffalo.edu/", imageUrl: "seas.jpg"}
+    - {name: "CSE Buffalo", description: "CSE Buffalo", link: "http://www.cse.buffalo.edu", imageUrl: "Cse.gif"} 
     - {name: "US Marine Corps", description: "US Marine Corps", link: "http://www.marines.mil/", imageUrl: "marine.jpg"}
     - {name: "US NAVY", description: "US NAVY", link: "http://www.navy.com/", imageUrl: "navy.jpg"}
     - {name: "CreativeTim", description: "CreativeTim", link: "http://www.creative-tim.com", imageUrl: "CreativeTim.png"}
@@ -18,7 +19,7 @@
     - {name: "The Family Tree Restaurant", description: "The Family Tree Restaurant", link: "http://thefamilytreerestaurant.com/", imageUrl: "familytree.jpg"}
     - {name: "UB Office of Student Engagement", description: "UB Office of Student Engagement", link: "http://www.leadership.buffalo.edu/", imageUrl: "engagement.jpg"}
     - {name: "In Collision Auto & Repair", description: "In Collision Auto & Repair", link: "http://www.incollisioninc.com", imageUrl: "Incollision.png"}
-    - {name: "CSE Buffalo", description: "CSE Buffalo", link: "http://www.cse.buffalo.edu", imageUrl: "Cse.gif"}    
+
     - {name: "Walgreens", description: "Walgreens", link: "http://www.walgreens.com/", imageUrl: "walgreens.png"}
     - {name: "Trattoria Aroma on Main", description: "Trattoria Aroma on Main", link: "http://aromamainst.com/", imageUrl: "aroma.png"}
 -
