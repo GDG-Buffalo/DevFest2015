@@ -68,9 +68,6 @@
                                     </div>
                                 </div>
                                 {% endif %}
-                                {% if session.picture %}
-<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/stuff/' | append: session.picture }})"></div>
-{% endif %}
                             {% endfor %}
                         {% else %}
                         <div class="slot col-md-{{ slotColWidth }} hidden-xs blank-col flexbox-item-height"></div>
