@@ -89,7 +89,7 @@
   title: "Dinner Time"
   place: "Hall"
   service: true
-  thumbnailUrl: Martin.jpg
+
 -
   id: 105
   title: "Late Night Time"
@@ -132,6 +132,7 @@
   place: "Hall"
   service: true
   description: "Finish up your last line of code and be ready!"
+  imageUrl: navy.jpg
 -
   id: 112
   title: "Hackathon Round #1"
