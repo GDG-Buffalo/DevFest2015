@@ -10,7 +10,7 @@
   title: "Coming Soon!"
   subtype: presentation
   speakers: [2]
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   location: "Davis Hall 101"
 -
   id: 003
@@ -60,14 +60,14 @@
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"
-  location: "Davis Hall 230A"
+  location: "Davis Hall 113A"
 -
   id: 011
   title: "Entrepreneurship"
   subtype: presentation
   speakers: [3]
   complexity: "Intermediate"
-  location: "Davis Hall 230A"
+  location: "Davis Hall 113A"
 -
   id: 101
   title: "Registration Open"
@@ -89,6 +89,7 @@
   title: "Dinner Time"
   place: "Hall"
   service: true
+  thumbnailUrl: Martin.jpg
 -
   id: 105
   title: "Late Night Time"
