@@ -6,7 +6,7 @@
     - {name: "Snowberg", description: "Snowberg Inc. is a Buffalo local start-up focusing on mobile app products", link: "http://www.snowbergtech.com/", imageUrl: "Snowberg.png"}
     - {name: "Ted's Hot Dogs", description: "Ted's Hot Dogs", link: "https://www.tedshotdogs.com/", imageUrl: "Teds.jpg"}
     - {name: "UB SEAS", description: "The State University of New York at Buffalo School of Engineering and Applied Sciences", link: "http://engineering.buffalo.edu/", imageUrl: "seas.jpg"}
-    - {name: "CSE Buffalo", description: "CSE Buffalo", link: "http://www.cse.buffalo.edu", imageUrl: "Cse.gif"} 
+    - {name: "CSE Buffalo", description: "CSE Buffalo", link: "http://www.cse.buffalo.edu", imageUrl: "Cse.gif"}
     - {name: "US Marine Corps", description: "US Marine Corps", link: "http://www.marines.mil/", imageUrl: "marine.jpg"}
     - {name: "US NAVY", description: "US NAVY", link: "http://www.navy.com/", imageUrl: "navy.jpg"}
     - {name: "CreativeTim", description: "CreativeTim", link: "http://www.creative-tim.com", imageUrl: "CreativeTim.png"}
@@ -22,6 +22,7 @@
 
     - {name: "Walgreens", description: "Walgreens", link: "http://www.walgreens.com/", imageUrl: "walgreens.png"}
     - {name: "Trattoria Aroma on Main", description: "Trattoria Aroma on Main", link: "http://aromamainst.com/", imageUrl: "aroma.png"}
+    - {name: "Buffalo Wild Wings", description: "Buffalo Wild Wings at 1620 Niagara Falls Blvd, Tonawanda, NY 14150", link: "http://www.buffalowildwings.com/", imageUrl: "wild.png"}
 -
   group: "With support of"
   elements:
