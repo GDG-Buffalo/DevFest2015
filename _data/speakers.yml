@@ -6,7 +6,7 @@
   title: "Program Manager"
   bio: "Martin Omander, the man, the myth, the legend, all the way from the Google HQ in Silicon Valley Developer Relations Team."
   thumbnailUrl: Martin.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 2
   name: "Geoffrey"
@@ -52,7 +52,7 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
   title: "Director of Marketing Strategy"
   thumbnailUrl: Emily.jpg
   rockstar: true
-- 
+-
   id: 7
   name: "Bret"
   surname: "McGowen"
@@ -75,4 +75,4 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
   company: "Google"
   title: "Google Developer Group Baltimore"
   thumbnailUrl: Katarina.jpg
-  rockstar: true 
+  rockstar: true

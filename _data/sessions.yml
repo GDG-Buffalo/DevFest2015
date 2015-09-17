@@ -132,7 +132,7 @@
   place: "Hall"
   service: true
   description: "Finish up your last line of code and be ready!"
-  imageUrl: navy.jpg
+
 -
   id: 112
   title: "Hackathon Round #1"
