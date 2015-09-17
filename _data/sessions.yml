@@ -89,7 +89,7 @@
   title: "Dinner Time"
   place: "Hall"
   service: true
-
+  picture: food.jpg
 -
   id: 105
   title: "Late Night Time"
