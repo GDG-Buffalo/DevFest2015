@@ -42,7 +42,7 @@
   location: "Davis Hall 101"
 -
   id: 008
-  title: "Coming Soon!"
+  title: "Intro to Web Components & Polymer"
   subtype: presentation
   speakers: [8]
   complexity: "Intermediate"
