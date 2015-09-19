@@ -13,7 +13,7 @@
 In this talk I will present our new system, maybe, which addresses the challenge of mobile systems adaptation by allowing programmers to express—rather than suppress—development-time uncertainty. A new language construct allows programmers to indicate where they are uncertain about what to do, what legitimate options are available, and what constitutes success or failure—all things that can be determined at development time. Post-deployment testing and machine learning are then used to resolve the uncertainty by crafting effective data-driven adaptation strategies once more information is known. Experiences using maybe to introduce uncertainty into the Android platform demonstrate that our system both enables and simplifies adaptation. "
   subtype: presentation
   speakers: [2]
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   location: "Davis Hall 101"
 -
   id: 003
@@ -63,14 +63,14 @@ In this talk I will present our new system, maybe, which addresses the challenge
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"
-  location: "Davis Hall 230A"
+  location: "Davis Hall 113A"
 -
   id: 011
   title: "Entrepreneurship"
   subtype: presentation
   speakers: [3]
   complexity: "Intermediate"
-  location: "Davis Hall 230A"
+  location: "Davis Hall 113A"
 -
   id: 101
   title: "Registration Open"
