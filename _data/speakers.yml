@@ -76,3 +76,12 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
   title: "Google Developer Group Baltimore"
   thumbnailUrl: Katarina.jpg
   rockstar: true
+
+  -
+    id: 10
+    name: "Anandatirtha "
+    surname: "Nandugudi"
+    company: "University at Buffalo"
+    title: "Computer Science PhD Candidate"
+    thumbnailUrl: anand.jpg
+    rockstar: true
