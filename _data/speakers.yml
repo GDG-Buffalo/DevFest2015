@@ -1,10 +1,19 @@
 -
+  id: 1
+  name: "Martin"
+  surname: "Omander"
+  company: "Google"
+  title: "Program Manager"
+  bio: "Martin Omander, the man, the myth, the legend, all the way from the Google HQ in Silicon Valley Developer Relations Team."
+  thumbnailUrl: Martin.jpg
+  rockstar: false
+-
   id: 2
   name: "Geoffrey"
   surname: "Challen"
   company: "University at Buffalo"
   title: "Assistant Professor"
-  bio: "Geoffrey Challen leads the blue systems group (blue.cse.buffalo.edu), a shadowy and subversive group of systems designers and hackers located at the University at Buffalo, while also directing the PhoneLab Smartphone Platform Testbed (phone-lab.org). blue currently focuses on harnessing the power of the billions of deployed smartphones, which together comprise the largest distributed system ever built. He also teaches a partially-online course on computer operating systems. Somehow, he received both undergraduate and doctoral degrees from Harvard University, and in a misspent research youth worked with Matt Welsh deploying sensor networks on active volcanos." 
+  bio: "I’m an Assistant Professor at the University at Buffalo, where I lead the blue Systems Research Group and also direct the PhoneLab. My research interests are in systems and networking, mobile systems, and smartphones. I teach an introduction to computer operating systems and a graduate seminar covering a variety of contemporary topics in mobile systems."
   thumbnailUrl: Geoffrey.jpg
   rockstar: true
 -
@@ -43,7 +52,7 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
   title: "Director of Marketing Strategy"
   thumbnailUrl: Emily.jpg
   rockstar: true
-- 
+-
   id: 7
   name: "Bret"
   surname: "McGowen"
@@ -55,7 +64,7 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
   id: 8
   name: "Nitya"
   surname: "Narasimhan"
-  company: "GDG New York"
+  company: "Google Developer Group"
   title: "Google Developer Group Hudson Valley"
   thumbnailUrl: Nitya.jpg
   rockstar: true
@@ -66,4 +75,4 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
   company: "Google"
   title: "Google Developer Group Baltimore"
   thumbnailUrl: Katarina.jpg
-  rockstar: true 
+  rockstar: true
