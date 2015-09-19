@@ -1,7 +1,7 @@
-- 
+-
   date: "2015-09-19"
   dateReadable: "September 19"
-  tracks: 
+  tracks:
     - {title: "Tech Talk", color: "#90be4e"}
     - {title: "Workshop", color: "#03a9f4"}
     - {title: "Hackathon", color: "#e91e63"}
@@ -55,12 +55,12 @@
         startTime: "18:00",
         endTime: "19:00",
         sessionIds: [104]
-    } 
+    }
     - {
         startTime: "19:00",
         endTime: "20:00",
         sessionIds: [006]
-    }    
+    }
     - {
         startTime: "20:00",
         endTime: "21:00",
@@ -71,12 +71,12 @@
         endTime: "24:00",
         sessionIds: [105]
     }
-- 
+-
   date: "2015-09-20"
   dateReadable: "September 20"
-  tracks: 
+  tracks:
     - {title: "Hackathon", color: "#90be4e"}
-  timeslots: 
+  timeslots:
     - {
     	startTime: "7:00",
     	endTime: "8:00",
@@ -107,3 +107,8 @@
         endTime: "22:00",
         sessionIds: [109]
     }
+        - {
+            startTime: "08:00",
+            endTime: "09:00",
+            sessionIds: [133]
+        }

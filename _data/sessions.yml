@@ -140,3 +140,11 @@ In this talk I will present our new system, maybe, which addresses the challenge
   place: "Hall"
   service: true
   description: "Submit your Powerpoint Slide and wait for result!"
+
+  -
+    id: 133
+    title: "Google Map APIs"
+    subtype: Workshop
+    speakers: [10]
+    complexity: "Intermediate"
+    location: "Davis Hall 113A"
