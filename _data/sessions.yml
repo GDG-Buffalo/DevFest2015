@@ -8,9 +8,12 @@
 -
   id: 002
   title: "Building Less Certain Mobile Apps"
+  description: "While the success of app marketplaces has made it easier to distribute mobile apps, global distribution has made it harder to write them. To achieve good performance on billions of devices around the globe, mobile apps must run efficiently on a wide variety of hardware, cope with constantly changing network conditions, conserve limited energy resources, and deal with varying availability and accuracy of core services such as location, all while satisfying a diverse community of users. This diversity creates development-time uncertainty for app programmers, who may be unsure how to adapt their app to achieve good performance at all times, for anyone, anywhere.
+
+In this talk I will present our new system, maybe, which addresses the challenge of mobile systems adaptation by allowing programmers to express—rather than suppress—development-time uncertainty. A new language construct allows programmers to indicate where they are uncertain about what to do, what legitimate options are available, and what constitutes success or failure—all things that can be determined at development time. Post-deployment testing and machine learning are then used to resolve the uncertainty by crafting effective data-driven adaptation strategies once more information is known. Experiences using maybe to introduce uncertainty into the Android platform demonstrate that our system both enables and simplifies adaptation. "
   subtype: presentation
   speakers: [2]
-  complexity: "Intermediate"
+  complexity: "Intermediate" 
   location: "Davis Hall 101"
 -
   id: 003
@@ -60,14 +63,14 @@
   subtype: presentation
   speakers: [7]
   complexity: "Intermediate"
-  location: "Davis Hall 113A"
+  location: "Davis Hall 230A"
 -
   id: 011
   title: "Entrepreneurship"
   subtype: presentation
   speakers: [3]
   complexity: "Intermediate"
-  location: "Davis Hall 113A"
+  location: "Davis Hall 230A"
 -
   id: 101
   title: "Registration Open"
@@ -89,7 +92,6 @@
   title: "Dinner Time"
   place: "Hall"
   service: true
-  picture: food.jpg
 -
   id: 105
   title: "Late Night Time"
@@ -132,7 +134,6 @@
   place: "Hall"
   service: true
   description: "Finish up your last line of code and be ready!"
-
 -
   id: 112
   title: "Hackathon Round #1"
