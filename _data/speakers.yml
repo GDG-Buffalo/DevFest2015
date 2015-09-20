@@ -79,9 +79,9 @@ Specialties: Entrepreneurship | Entrepreneurship Education | Product Development
 
   -
     id: 10
-    name: "Anandatirtha "
+    name: "Anandatirtha"
     surname: "Nandugudi"
     company: "University at Buffalo"
     title: "Computer Science PhD Candidate"
-    thumbnailUrl: anand.jpg 
+    thumbnailUrl: anand.jpg
     rockstar: true
