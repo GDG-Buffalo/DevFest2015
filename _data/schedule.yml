@@ -107,8 +107,8 @@
         endTime: "22:00",
         sessionIds: [109]
     }
-        - {
-            startTime: "08:00",
-            endTime: "09:00",
-            sessionIds: [133]
-        }
+        # - {
+        #     startTime: "08:00",
+        #     endTime: "09:00",
+        #     sessionIds: [133]
+        # }
