@@ -83,6 +83,11 @@
     	sessionIds: [103]
     }
     - {
+        startTime: "08:00",
+        endTime: "09:00",
+        sessionIds: [133]
+    }
+    - {
     	startTime: "12:00",
     	endTime: "13:00",
     	sessionIds: [102,111]
@@ -106,9 +111,4 @@
         startTime: "20:00",
         endTime: "22:00",
         sessionIds: [109]
-    }
-    - {
-        startTime: "08:00",
-        endTime: "09:00",
-        sessionIds: [133]
     }
