@@ -100,16 +100,16 @@ In this talk I will present our new system, maybe, which addresses the challenge
   description: "Enjoy the awesome night with the awesome late night with us! You will be surprised how awesome the late night going to be!"
 -
   id: 106
-  title: "Hackathon Final Presentation"
+  title: "Hackathon Final Presentation and Closing Ceremony"
   place: "Hall"
   service: true
   description: "It is time for you shine your hard work to the judge!"
--
-  id: 107
-  title: "Closing Ceremony"
-  place: "Hall"
-  service: true
-  description: "It is time for you shine your hard work to the judges!"
+# -
+#   id: 107
+#   title: "Closing Ceremony"
+#   place: "Hall"
+#   service: true
+#   description: "It is time for you shine your hard work to the judges!"
 -
   id: 108
   title: "Google Jeopardy"
