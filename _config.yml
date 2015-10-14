@@ -1,6 +1,6 @@
 # Plugins
 gems:
-- jekyll-sitemap
+- jekyll-sitemap 
 safe: false
 
 # Build Settings
@@ -9,7 +9,6 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
-# Site Settings 
 title: "GDG Buffalo DevFest 2015"
 email: "gdgbuffalo@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
@@ -139,8 +138,6 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student/faculty ID at the conference check in. Without student/faculty ID at the check in, ticket will be cancelled"
   validThrough: "2015-09-18T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
  -
   name: "Professional: Early Bird"
   price: "15"
@@ -159,8 +156,6 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   validFrom: "2015-09-01T10:00"
   validThrough: "2015-09-18T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
